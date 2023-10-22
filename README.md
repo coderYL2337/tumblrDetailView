@@ -1,4 +1,4 @@
-# Project 6 - *ios101-project6-tumblr*
+# Project 6   *ios101-project6-tumblr*
 
 Submitted by: **Yan Lu**
 
